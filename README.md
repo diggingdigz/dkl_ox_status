@@ -22,6 +22,6 @@ Remove: **`TriggerEvent('ox_status:minus', status, value)`**
 Set: **`TriggerEvent('ox_status:set', status, value)`**
 
 
-_Check my server build of overextended (ox_core)_
+**_Check my server build of overextended (ox_core)_**
 
 `connect cfx.re/join/o34xxy`
