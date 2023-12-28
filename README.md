@@ -7,3 +7,14 @@ https://github.com/diggingdigz/ox_core
 Setup ox_statutes table
 
 ![image](https://github.com/diggingdigz/dkl_ox_status/assets/64390653/15f54e8c-5527-461a-b517-545e98e6d076)
+
+Add these triggers to your scripts
+
+Add:
+TriggerEvent('ox_status:add', status, value)
+
+Remove:
+TriggerEvent('ox_status:minus', status, value)
+
+Set:
+TriggerEvent('ox_status:set', status, value)
