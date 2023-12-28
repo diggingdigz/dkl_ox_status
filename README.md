@@ -1,8 +1,13 @@
 # dkl_ox_status
 Status system for overextended (ox_core) including Drugs, stress and Drunk
 
-To work properly, use my ox_core forked
+To work properly, use my `ox_core` forked
+
 https://github.com/diggingdigz/ox_core
+
+and `dx_hud` forked
+
+https://github.com/diggingdigz/dx_hud
 
 Setup ox_statutes table
 
