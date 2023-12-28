@@ -10,11 +10,8 @@ Setup ox_statutes table
 
 Add these triggers to your scripts
 
-**Add:**
-TriggerEvent('ox_status:add', status, value)
+Add: **TriggerEvent('ox_status:add', status, value)**
 
-**Remove:**
-TriggerEvent('ox_status:minus', status, value)
+Remove: **TriggerEvent('ox_status:minus', status, value)**
 
-**Set:**
-TriggerEvent('ox_status:set', status, value)
+Set: **TriggerEvent('ox_status:set', status, value)**
