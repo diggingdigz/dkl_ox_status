@@ -9,7 +9,7 @@ and `dx_hud` forked
 
 https://github.com/diggingdigz/dx_hud
 
-Setup ox_statutes table
+_Setup ox_statutes table_
 
 ![image](https://github.com/diggingdigz/dkl_ox_status/assets/64390653/15f54e8c-5527-461a-b517-545e98e6d076)
 
@@ -21,6 +21,7 @@ Remove: **`TriggerEvent('ox_status:minus', status, value)`**
 
 Set: **`TriggerEvent('ox_status:set', status, value)`**
 
-Check my server build of overextended (ox_core)
+
+_Check my server build of overextended (ox_core)_
 
 `connect cfx.re/join/o34xxy`
